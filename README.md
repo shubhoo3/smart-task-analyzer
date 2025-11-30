@@ -1,8 +1,8 @@
-📘 Smart Task Analyzer
+# 📘 Smart Task Analyzer
 
 A lightweight smart-prioritization tool built with Django (backend) and HTML/CSS/JS (frontend). It takes a list of tasks—each with due dates, effort, importance, and dependencies—and produces a ranked priority list using a custom scoring algorithm.
 
-🚀 Features
+# 🚀 Features
 
 Intelligent Task Scoring (urgency, importance, effort, dependencies)
 
@@ -12,7 +12,8 @@ REST-like API: /api/tasks/analyze/ and /api/tasks/suggest/
 
 Simple Frontend UI with color‑coded priority cards
 
-📂 Project Structure
+# 📂 Project Structure
+```
 task-analyzer/
 ├── backend/ # Django project
 ├── tasks/ # App with models, scoring engine, API views
@@ -20,8 +21,9 @@ task-analyzer/
 ├── db.sqlite3
 ├── manage.py
 └── requirements.txt
+```
 
-⚙️ Backend Setup
+# ⚙️ Backend Setup
 1. Create and activate virtual environment
 
 Mac/Linux:
