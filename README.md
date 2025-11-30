@@ -8,3 +8,5 @@
 ## top 3 Suggestions
 <img width="1505" height="911" alt="image" src="https://github.com/user-attachments/assets/b480b736-434e-4691-9e82-e15e8389148b" />
 
+### Screen Recording
+https://github.com/user-attachments/assets/3c2a5f1d-9e1c-4e2f-9cf4-dcdb6316cd5a
